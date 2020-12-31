@@ -22,6 +22,6 @@ public class HolaMundo {
     var numero3 = 15; // dynamic
 
     String nombre;
-    nombre = "Andres";
+    nombre = "Omar";
   }
 }
